@@ -11,7 +11,7 @@
 
 //CODE HERE
 
-let gitDefinition = "";
+let gitDefinition = "ill be honest i cant explaing it";
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -21,7 +21,7 @@ let gitDefinition = "";
 
 //CODE HERE
 
-let gitHubDefinition = "";
+let gitHubDefinition ="its a big storage place that other devolopers can see and edit my code"
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -31,7 +31,7 @@ let gitHubDefinition = "";
 
 //CODE HERE
 
-let gitInitDefinition = "";
+let gitInitDefinition = "it is the fist step in saving my code";
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -41,7 +41,7 @@ let gitInitDefinition = "";
 
 //CODE HERE
 
-let gitCloneDefinition = ""
+let gitCloneDefinition = "i dont konw what it is"
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -51,7 +51,7 @@ let gitCloneDefinition = ""
 
 //CODE HERE
 
-let gitStatusDefinition = "";
+let gitStatusDefinition = "its a comand that lets me know when and if ive saved/ modified my code";
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -64,7 +64,7 @@ let gitStatusDefinition = "";
 
 //CODE HERE
 
-let gitAddDefinition ="";
+let gitAddDefinition ="it saves any modifications to my code";
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -77,6 +77,8 @@ let gitAddDefinition ="";
 
 //CODE HERE
 
+let gitCommitDefinition = " to notify the compuert to start saving"
+
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -85,3 +87,5 @@ let gitAddDefinition ="";
 */
 
 //CODE HERE
+
+let gitPushDefinition = "basically to save it github"
