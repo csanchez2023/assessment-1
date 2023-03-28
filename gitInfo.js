@@ -11,7 +11,7 @@
 
 //CODE HERE
 
-let gitDefinition = "ill be honest i cant explaing it";
+let gitDefinition = " is a program that lets people see how a project has gone and how many changes have been done and prevents bugs ";
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -41,7 +41,7 @@ let gitInitDefinition = "it is the fist step in saving my code";
 
 //CODE HERE
 
-let gitCloneDefinition = "i dont konw what it is"
+let gitCloneDefinition = "makes a copy of a repoo"
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -77,7 +77,7 @@ let gitAddDefinition ="it saves any modifications to my code";
 
 //CODE HERE
 
-let gitCommitDefinition = " to notify the compuert to start saving"
+let gitCommitDefinition = " to notify the computer to start saving"
 
 
 //////////////////PROBLEM 8////////////////////

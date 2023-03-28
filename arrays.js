@@ -4,8 +4,10 @@
 const faveColors = ['red', 'green', 'black']
 
 //CODE HERE
-let colorCopy = faveColors.slice()
-  console.log("This is problem 1 " + colorCopy) 
+const colorCopy = faveColors.splice(0,3)
+
+console.log(colorCopy)
+
 
 //////////////////PROBLEM 2////////////////////
 /* Add a fourth color to the end of the 'colorCopy' array using the push method. */
